@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Local DB
+*.sqlite3

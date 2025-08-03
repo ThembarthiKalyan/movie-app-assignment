@@ -1,0 +1,16 @@
+.card-div{
+    height: 570px;
+    width: 315px;
+}
+
+.card-img{
+    height: 468px;
+}
+
+.card-content{
+    height: 165px;
+}
+
+.h2-card{
+    font-weight: 700;
+}

@@ -1,0 +1,16 @@
+.movie-card-div{
+    height: 570px;
+    width: 315px;
+}
+
+.movie-card-img{
+    height: 385px;
+}
+
+.movie-card-content{
+    height: 165px;
+}
+
+.movie-h2-card{
+    font-weight: 700;
+}
